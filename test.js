@@ -1,4 +1,4 @@
-function research(){
+
   
   const toBase64 = file => new Promise((resolve, reject) => {
     const reader = new FileReader();
@@ -46,6 +46,4 @@ function research(){
       }
       
    }
-}
 
-var Research =new research;
