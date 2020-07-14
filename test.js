@@ -1,4 +1,4 @@
-
+use 'strict';
 
 function getbase64(file,encoded){
 
