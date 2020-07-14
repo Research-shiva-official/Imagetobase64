@@ -70,3 +70,5 @@ function getbase64(file,encoded){
      
      
      }
+
+var research=new getbase64();
