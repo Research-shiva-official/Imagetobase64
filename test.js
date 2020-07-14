@@ -1,8 +1,4 @@
-function test(){
-    var file=document.getElementById('myfile').files[0];
 
-   console.log(getbase64(file,true)); 
-}
 
 function getbase64(file,encoded){
 
